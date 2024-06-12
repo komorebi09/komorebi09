@@ -9,7 +9,7 @@ One day I will have a cool portfolio full of things!
 - 📷 Instagram: levi_o_pior
 - 💼 LinkedIn: https://www.linkedin.com/in/levi-sales-85b1b12b9/
 
-I am currently a teenage student, so it means I don't have so many projects yet, even though here you may find some repositories with some silly things. These are basically my first projects ever.
+I am currently a teenage student, so it means I don't have many projects yet, even though here you may find some repositories with some silly things. These are basically my first projects ever.
 
 ### Languages I'm currently learning:
 
