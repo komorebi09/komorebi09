@@ -11,4 +11,4 @@ I am currently a student, it means I don't so many projects yet, even though you
 
 ### Languages I'm currently learning:
 
-![C#](https://img.shields.io/badge/C%23-007ACC?style=flat&logo=CSharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
+![C#](https://img.shields.io/badge/C%23-007ACC?style=for-the-badge&logo=CSharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge)
