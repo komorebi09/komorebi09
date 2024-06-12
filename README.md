@@ -1,6 +1,8 @@
 ## Welcome to my profile! 👋😎
 One day I will have a cool portfolio full of things!
 
+![Levi Sunset](https://github.com/levi-the-worst/levi-the-worst/tree/main/img/LeviSunset512x384.gif "Welcome to my profile!")
+
 > *To love another person is to see the face of God.* **— Victor Hugo**
 
 ### Contact:
