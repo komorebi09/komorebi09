@@ -1,5 +1,5 @@
-## Welcome to my profile!
-# My name is Levi Sales
+## Welcome to my profile! 👋
+# My name is Levi Sales 😎
 And one day I will have a cool portfolio full of things!
 
 ### Contact:
