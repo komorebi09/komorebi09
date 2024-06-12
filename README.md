@@ -1,5 +1,5 @@
 ## Welcome to my profile! 👋
-# My name is Levi Sales 😎
+# My name is Levi 😎
 And one day I will have a cool portfolio full of things!
 
 ### Contact:
@@ -7,7 +7,7 @@ And one day I will have a cool portfolio full of things!
 - 👾 Discord: levi_the_worst
 - 📷 Instagram: levi_o_pior
 
-I am currently a student, it means I don't so many projects yet, even though you may find some repositories with silly things. These are basically my first projects ever.
+I am currently a teenage student, so it means I don't have so many projects yet, even though here you may find some repositories with some silly things. These are basically my first projects ever.
 
 ### Languages I'm currently learning:
 
