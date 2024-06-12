@@ -1,9 +1,7 @@
 ## Welcome to my profile! 👋😎
 One day I will have a cool portfolio full of things!
 
-> *To love another person is to see the face of God.*
-
-**— Victor Hugo**
+> *To love another person is to see the face of God.* **— Victor Hugo**
 
 ### Contact:
 - ✉️ E-mail: levisls.inbox@gmail.com
