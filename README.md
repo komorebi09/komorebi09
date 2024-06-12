@@ -1,6 +1,8 @@
 ## Welcome to my profile! 👋😎
 One day I will have a cool portfolio full of things!
 
+<img src="https://github.com/levi-the-worst/levi-the-worst/assets/105523157/a2812e49-d9f9-403a-b1af-19aac1bca0e7" align="center">
+
 ![LeviSunset512x384](https://github.com/levi-the-worst/levi-the-worst/assets/105523157/a2812e49-d9f9-403a-b1af-19aac1bca0e7)
 
 > *To love another person is to see the face of God.* **— Victor Hugo**
