@@ -18,7 +18,7 @@ This username is a "me" thing. Seeing myself as "the worst" should always motiva
 # Contact:
 - ✉️ E-mail: levisls.inbox@gmail.com
 - 👾 Discord: levi_the_worst
-- 📷 Instagram: levi_o_pior
+- 📷 Instagram: @levi_o_pior
 - 💼 LinkedIn: https://www.linkedin.com/in/levi-sales-85b1b12b9/
 
 I am currently a teenage student, so it means I don't have many projects yet, even though here you may find some repositories with some silly things. These are basically my first projects ever.
