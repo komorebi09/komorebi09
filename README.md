@@ -27,4 +27,4 @@ I am currently a teenage student, so it means I don't have many projects yet, ev
 
 ## Languages I'm currently learning:
 
-![C#](https://img.shields.io/badge/C%23-007ACC?style=for-the-badge&logo=CSharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge)
+<a href="https://www.youtube.com">![C#](https://img.shields.io/badge/C%23-007ACC?style=for-the-badge&logo=CSharp&logoColor=white)</a> ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge)
