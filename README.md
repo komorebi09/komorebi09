@@ -5,7 +5,7 @@ I swear, one day I will have a cool portfolio full of things...
 
 > *To love another person is to see the face of God.* **— Victor Hugo**
 
-**Why "the worst"?**
+# **Why "the worst"?**
 Don't get me wrong, I don't consider myself a bad person.
 But that username is a "me" thing. Seeing myself as "the worst" should always motivate me to be better.
 
