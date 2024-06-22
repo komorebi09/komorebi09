@@ -1,9 +1,13 @@
-## Welcome to my profile! 👋
-One day I will have a cool portfolio full of things!
+## Hello! 👋
+I swear, one day I will have a cool portfolio full of things...
 
 ![LeviSunset512x384](https://github.com/levi-the-worst/levi-the-worst/assets/105523157/a2812e49-d9f9-403a-b1af-19aac1bca0e7)
 
 > *To love another person is to see the face of God.* **— Victor Hugo**
+
+**Why "the worst"?**
+Don't get me wrong, I don't consider myself a bad person.
+But that username is a "me" thing. Seeing myself as "the worst" should always motivate me to be better.
 
 ### Contact:
 - ✉️ E-mail: levisls.inbox@gmail.com
