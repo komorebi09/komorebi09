@@ -20,7 +20,12 @@
 <h1>Languages</h1>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,javascript,css,cs,java,typescript,npm,nodejs,express" />
+      <img src="https://skillicons.dev/icons?i=html,javascript,css,scss,cs,java,typescript" />
+      <img src="https://skillicons.dev/icons?i=dotnet,nodejs,maven,gradle" />
+      <img src="https://skillicons.dev/icons?i=express,nextjs,react" />
+      <img src="https://skillicons.dev/icons?i=vscode,visualstudio,webstorm,idea" />
+      <img src="https://skillicons.dev/icons?i=windows,powershell,postman,git,discord" />
+      <img src="https://skillicons.dev/icons?i=pug" />
     </a>
   </p>
 </div>
