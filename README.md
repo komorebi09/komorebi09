@@ -28,5 +28,5 @@
   <br>
   <img align="left" src="https://skillicons.dev/icons?i=windows,powershell,postman,git,discord" /> 
   <br>
-  <img align="center" src="https://skillicons.dev/icons?i=pug" />
+  <img align="center" width="300" src="https://skillicons.dev/icons?i=pug" />
 </div>
