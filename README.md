@@ -1,4 +1,4 @@
-[<img align="center" width="400" src="img/LeviSunset512x384">](#)
+[<img align="right" width="400" alt="Levi" src="img/LeviSunset512x384.gif">](#)
 ![LeviSunset512x384](https://github.com/levi-the-worst/levi-the-worst/assets/105523157/a2812e49-d9f9-403a-b1af-19aac1bca0e7)
 
 <hr>
@@ -19,8 +19,7 @@ I am currently a teenage student, so it means I don't have many projects yet, ev
 
 # Contact
 ## ✉️ E-mail: <i>levisls.inbox@gmail.com</i>
-## 👾 Discord: <i>levi_the_worst</i> 
-[![Discord Presence](https://lanyard.cnrad.dev/api/558808903924580352)](https://discord.com/users/558808903924580352)
+## 👾 Discord: <i>levi_the_worst</i>
 
 <hr>
 
