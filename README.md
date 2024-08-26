@@ -3,7 +3,8 @@
 
 <hr>
 <div align="right">
-  
+
+<span align="center">
 # About me
 > *To love another person is to see the face of God.* **— Victor Hugo**
 
@@ -12,7 +13,7 @@ Don't get me wrong, I am not a pessimist.
 This username is a "me" thing. Seeing myself as "the worst" should always motivate me to be better.
 I am currently a teenage student, so it means I don't have many projects yet, even though here you may find some repositories with some silly things. These are basically my first projects ever.
 
-<hr>
+</span>
 
 # Contact
 ## ✉️ E-mail: <i>levisls.inbox@gmail.com</i>
