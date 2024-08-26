@@ -1,3 +1,4 @@
+[<img align="center" width="400" src="img/LeviSunset512x384">](#)
 ![LeviSunset512x384](https://github.com/levi-the-worst/levi-the-worst/assets/105523157/a2812e49-d9f9-403a-b1af-19aac1bca0e7)
 
 <hr>
