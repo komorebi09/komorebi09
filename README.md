@@ -4,7 +4,7 @@
 <div align="left">
 
 <h1 align="center">About me</h1>
-<i>To love another person is to see the face of God. — Victor Hugo<i>
+<i>To love another person is to see the face of God. — Victor Hugo</i>
 
 <h2 align="center">Why "the worst"?</h2>
 <p>Don't get me wrong, I am not a pessimist.
