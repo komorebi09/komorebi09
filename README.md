@@ -13,11 +13,11 @@
   I am currently a teenage student, so it means I don't have many projects yet, even though here you may find some repositories with some silly things. These are basically my first projects ever.
 </p>
 
-<h1>Contact</h1>
+<h1 align="center">Contact</h1>
 <h2>✉️ E-mail:</h2> <i>levisls.inbox@gmail.com</i>
 <h2>👾 Discord:</h2> <i>levi_the_worst</i>
 
-<h1>Languages</h1>
+<h1 align="center">Languages</h1>
   <img align="left" src="https://skillicons.dev/icons?i=html,javascript,css,scss,cs,java,typescript" /> 
   <br>
   <img align="right" src="https://skillicons.dev/icons?i=dotnet,nodejs,maven,gradle" />
