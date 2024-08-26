@@ -26,7 +26,5 @@
   <br>
   <img align="right" src="https://skillicons.dev/icons?i=vscode,visualstudio,webstorm,idea" /> 
   <br>
-  <img align="left" src="https://skillicons.dev/icons?i=windows,powershell,postman,git,discord" /> 
-  <br>
-  <img align="center" width="300" src="https://skillicons.dev/icons?i=pug" />
+  <img align="left" src="https://skillicons.dev/icons?i=windows,powershell,postman,git,discord,pug" /> 
 </div>
