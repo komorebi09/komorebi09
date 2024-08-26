@@ -4,11 +4,11 @@
 
 <div align="center">
 
-<h1 align="center">About me</h1>
-<i>To love another person is to see the face of God. — Victor Hugo</i>
+<h1>About me</h1>
+<i align="left">To love another person is to see the face of God. — Victor Hugo</i>
 
-<h2 align="center">Why "the worst"?</h2>
-<p>
+<h2>Why "the worst"?</h2>
+<p align="left">
   Don't get me wrong, I am not a pessimist.
   This username is a "me" thing. Seeing myself as "the worst" should always motivate me to be better.
   I am currently a teenage student, so it means I don't have many projects yet, even though here you may find some repositories with some silly things. These are basically my first projects ever.
