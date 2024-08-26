@@ -18,8 +18,7 @@ I am currently a teenage student, so it means I don't have many projects yet, ev
 
 # Contact:
 - ✉️ E-mail: levisls.inbox@gmail.com
-- 👾 Discord: levi_the_worst
-<br>
+- 👾 Discord: levi_the_worst 
 [![Discord Presence](https://lanyard.cnrad.dev/api/558808903924580352)](https://discord.com/users/558808903924580352)
 
 <hr>
