@@ -1,5 +1,5 @@
 <div align="center">
-[<img width="300" alt="Levi" src="img/LeviSunset512x384.gif">](#)
+<img width="300" alt="Levi" src="img/LeviSunset512x384.gif">
 </div>
 
 <div align="center">
