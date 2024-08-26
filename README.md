@@ -21,13 +21,5 @@
 </span>
 
 <h1>Languages</h1>
-  <img align="left" src="https://skillicons.dev/icons?i=html,javascript,css,scss,cs,java,typescript" /> 
-  <hr>
-  <img align="right" src="https://skillicons.dev/icons?i=dotnet,nodejs,maven,gradle" />
-  <hr>
-  <img align="left" src="https://skillicons.dev/icons?i=express,nextjs,react" /> 
-  <hr>
-  <img align="right" src="https://skillicons.dev/icons?i=vscode,visualstudio,webstorm,idea" /> 
-  <hr>
-  <img align="left" src="https://skillicons.dev/icons?i=windows,powershell,postman,git,discord,pug" /> 
+  <img align="left" src="https://skillicons.dev/icons?i=html,javascript,css,scss,cs,java,typescript,dotnet,nodejs,maven,gradle,express,nextjs,react,vscode,visualstudio,webstorm,idea,windows,powershell,postman,git,discord,pug" /> 
 </div>
