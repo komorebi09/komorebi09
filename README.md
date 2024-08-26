@@ -18,15 +18,9 @@
 <h2>👾 Discord:</h2> <i>levi_the_worst</i>
 
 <h1>Languages</h1>
-  <div>
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-      ![C#](https://img.shields.io/badge/c%23-purple?style=for-the-badge&logo=.net&logoColor=white)
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
     </a>
-    <a href="https://docs.oracle.com/en/java/">
-      ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-    </a>
-    <a href="https://www.typescriptlang.org/">
-      ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-    </a>
-  </div>
+  </p>
 </div>
