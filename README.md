@@ -18,12 +18,15 @@
 <h2>👾 Discord:</h2> <i>levi_the_worst</i>
 
 <h1>Languages</h1>
-<div align="center" width="300">
   <img align="left" src="https://skillicons.dev/icons?i=html,javascript,css,scss,cs,java,typescript" /> 
-  <img align="right" src="https://skillicons.dev/icons?i=dotnet,nodejs,maven,gradle" /> 
+  <br>
+  <img align="right" src="https://skillicons.dev/icons?i=dotnet,nodejs,maven,gradle" />
+  <br>
   <img align="left" src="https://skillicons.dev/icons?i=express,nextjs,react" /> 
+  <br>
   <img align="right" src="https://skillicons.dev/icons?i=vscode,visualstudio,webstorm,idea" /> 
+  <br>
   <img align="left" src="https://skillicons.dev/icons?i=windows,powershell,postman,git,discord" /> 
+  <br>
   <img align="right" src="https://skillicons.dev/icons?i=pug" />
-</div>
 </div>
