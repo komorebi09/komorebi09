@@ -20,6 +20,6 @@
 <b>👾 Discord:</b> <i>levi_the_worst</i>
 </span>
 
-<h1>Languages</h1>
+<h1>Skills</h1>
   <img align="center" src="https://skillicons.dev/icons?i=html,javascript,css,scss,cs,java,typescript,dotnet,nodejs,maven,gradle,express,nextjs,react,vscode,visualstudio,webstorm,idea,windows,powershell,postman,git,discord,pug&perline=5" /> 
 </div>
