@@ -1,4 +1,4 @@
-[<img align="center" width="300" alt="Levi" src="img/LeviSunset512x384.gif">](#) 
+<p>Welcome!</p>[<img width="300" alt="Levi" src="img/LeviSunset512x384.gif">](#) 
 
 <div align="center">
 
