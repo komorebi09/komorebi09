@@ -20,7 +20,7 @@
 <h1>Languages</h1>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=cs,java,typescript" />
+      <img src="https://skillicons.dev/icons?i=html,javascript,css,cs,java,typescript,npm,node,express" />
     </a>
   </p>
 </div>
