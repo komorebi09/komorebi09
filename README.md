@@ -21,5 +21,5 @@
 </span>
 
 <h1>Languages</h1>
-  <img align="left" src="https://skillicons.dev/icons?i=html,javascript,css,scss,cs,java,typescript,dotnet,nodejs,maven,gradle,express,nextjs,react,vscode,visualstudio,webstorm,idea,windows,powershell,postman,git,discord,pug" /> 
+  <img align="center" src="https://skillicons.dev/icons?i=html,javascript,css,scss,cs,java,typescript,dotnet,nodejs,maven,gradle,express,nextjs,react,vscode,visualstudio,webstorm,idea,windows,powershell,postman,git,discord,pug" /> 
 </div>
