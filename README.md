@@ -15,17 +15,19 @@
 </p>
 
 <h1>Contact</h1>
-<h2 align="left">✉️ E-mail:</h2> <i>levisls.inbox@gmail.com</i>
-<h2 align="left">👾 Discord:</h2> <i>levi_the_worst</i>
+<span align="left">
+<b>✉️ E-mail:</b> <i>levisls.inbox@gmail.com</i>
+<b>👾 Discord:</b> <i>levi_the_worst</i>
+</span>
 
 <h1>Languages</h1>
   <img align="left" src="https://skillicons.dev/icons?i=html,javascript,css,scss,cs,java,typescript" /> 
-  <br>
+  <hr>
   <img align="right" src="https://skillicons.dev/icons?i=dotnet,nodejs,maven,gradle" />
-  <br>
+  <hr>
   <img align="left" src="https://skillicons.dev/icons?i=express,nextjs,react" /> 
-  <br>
+  <hr>
   <img align="right" src="https://skillicons.dev/icons?i=vscode,visualstudio,webstorm,idea" /> 
-  <br>
+  <hr>
   <img align="left" src="https://skillicons.dev/icons?i=windows,powershell,postman,git,discord,pug" /> 
 </div>
