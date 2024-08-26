@@ -1,6 +1,6 @@
 [<img align="center" width="300" alt="Levi" src="img/LeviSunset512x384.gif">](#) 
 
-<div align="left">
+<div align="center">
 
 <h1 align="center">About me</h1>
 <i>To love another person is to see the face of God. — Victor Hugo</i>
