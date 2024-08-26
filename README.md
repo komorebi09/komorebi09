@@ -1,4 +1,4 @@
-[<img align="center" width="400" alt="Levi" src="img/LeviSunset512x384.gif">](#)
+[<img align="left" width="400" alt="Levi" src="img/LeviSunset512x384.gif">](#)
 [![Discord Presence](https://lanyard.cnrad.dev/api/558808903924580352)](https://discord.com/users/558808903924580352)
 
 <hr>
