@@ -12,15 +12,13 @@ One day, I swear I will have a cool portfolio full of stuff...
 ### Why "the worst"?
 Don't get me wrong, I am not a pessimist.
 This username is a "me" thing. Seeing myself as "the worst" should always motivate me to be better.
+I am currently a teenage student, so it means I don't have many projects yet, even though here you may find some repositories with some silly things. These are basically my first projects ever.
 
 <hr>
 
 # Contact:
 - ✉️ E-mail: levisls.inbox@gmail.com
 - 👾 Discord: levi_the_worst
-
-I am currently a teenage student, so it means I don't have many projects yet, even though here you may find some repositories with some silly things. These are basically my first projects ever.
-
 [![Discord Presence](https://lanyard.cnrad.dev/api/558808903924580352)](https://discord.com/users/558808903924580352)
 
 <hr>
