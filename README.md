@@ -1,11 +1,8 @@
-# Contact
-## ✉️ E-mail: <i>levisls.inbox@gmail.com</i>
-## 👾 Discord: <i>levi_the_worst</i> 
-[![Discord Presence](https://lanyard.cnrad.dev/api/558808903924580352)](https://discord.com/users/558808903924580352)
+![LeviSunset512x384](https://github.com/levi-the-worst/levi-the-worst/assets/105523157/a2812e49-d9f9-403a-b1af-19aac1bca0e7)
 
 <hr>
 
-![LeviSunset512x384](https://github.com/levi-the-worst/levi-the-worst/assets/105523157/a2812e49-d9f9-403a-b1af-19aac1bca0e7)
+[![Discord Presence](https://lanyard.cnrad.dev/api/558808903924580352)](https://discord.com/users/558808903924580352)
 
 <hr>
 
@@ -16,6 +13,13 @@
 Don't get me wrong, I am not a pessimist.
 This username is a "me" thing. Seeing myself as "the worst" should always motivate me to be better.
 I am currently a teenage student, so it means I don't have many projects yet, even though here you may find some repositories with some silly things. These are basically my first projects ever.
+
+<hr>
+
+# Contact
+## ✉️ E-mail: <i>levisls.inbox@gmail.com</i>
+## 👾 Discord: <i>levi_the_worst</i> 
+[![Discord Presence](https://lanyard.cnrad.dev/api/558808903924580352)](https://discord.com/users/558808903924580352)
 
 <hr>
 
