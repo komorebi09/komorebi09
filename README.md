@@ -1,3 +1,1 @@
-<div>
-    <img src="assets/svg/levi.svg" style="width:100%">
-</div>
+![My profile :D](./assets/svg/levi.svg)
