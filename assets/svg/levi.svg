@@ -170,7 +170,11 @@
                 <div class="bubble"></div>
                 <div class="bubble"></div>
             </div>
-            <image class="bam" src="https://raw.githubusercontent.com/levitheworst/levitheworst/238301d9183e7a18d9138b23fcd302cad97a8f16/assets/img/LeviSunset512x384.gif"></image>
+            <svg x="0" y="0" width="600" height="450">
+                <foreignObject width="100%" height="100%">
+                    <image class="bam" src="https://raw.githubusercontent.com/levitheworst/levitheworst/238301d9183e7a18d9138b23fcd302cad97a8f16/assets/img/LeviSunset512x384.gif"></image>
+                </foreignObject>
+            </svg>
             <p class="quote">To love another person is to see the face of God. — Victor Hugo</p>
             <hr></hr>
             <h1>Contact me</h1>
@@ -178,7 +182,7 @@
             <p>👾 Discord: levi_the_worst</p>
             <hr></hr>
             <h1>Skills</h1>
-            <img class="skills" src="https://skillicons.dev/icons?i=html,javascript,css,scss,cs,java,typescript,dotnet,nodejs,maven,gradle,express,nextjs,react,vscode,visualstudio,webstorm,idea,windows,powershell,postman,git,discord,pug" /> 
+            <image class="skills" src="https://skillicons.dev/icons?i=html,javascript,css,scss,cs,java,typescript,dotnet,nodejs,maven,gradle,express,nextjs,react,vscode,visualstudio,webstorm,idea,windows,powershell,postman,git,discord,pug"></image> 
         </div>
       </div>
     </foreignObject>
