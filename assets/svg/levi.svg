@@ -1,6 +1,162 @@
 <svg fill="none" viewBox="0 0 600 1200" width="600" height="1200" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
-      <div xmlns="http://www.w3.org/1999/xhtml">        
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <style>
+            @import url('https://fonts.googleapis.com/css2?family=Radio+Canada+Big');
+
+            .container {
+                display: inline-block;
+                width: 100%;
+                height: 1200px;
+                background-color: #ffffff;
+                background-image: linear-gradient(180deg, #0d1117, white, white, white, white, white, white);
+                color: black;
+                font-family: 'Radio Canada Big';
+                font-size: 18px;
+            }
+
+            .bubbles {
+                position:absolute;
+                width:100%;
+                height:100%;
+                z-index:0;
+                overflow:hidden;
+                top:0;
+                left:0;
+            }
+
+            .bubble {
+                position: absolute;
+                bottom:-100px;
+                width:40px;
+                height: 40px;
+                background:#7a7a7a;
+                border-radius:50%;
+                opacity:0.5;
+                animation: rise 10s infinite ease-in;
+            }
+
+            .bubble:nth-child(1) {
+                width:40px;
+                height:40px;
+                left:10%;
+                animation-duration:8s;
+            }
+
+            .bubble:nth-child(2) {
+                width:20px;
+                height:20px;
+                left:20%;
+                animation-duration:5s;
+                animation-delay:1s;
+            }
+
+            .bubble:nth-child(3) {
+                width:50px;
+                height:50px;
+                left:35%;
+                animation-duration:7s;
+                animation-delay:2s;
+            }
+
+            .bubble:nth-child(4) {
+                width:80px;
+                height:80px;
+                left:50%;
+                animation-duration:11s;
+                animation-delay:0s;
+            }
+
+            .bubble:nth-child(5) {
+                width:35px;
+                height:35px;
+                left:55%;
+                animation-duration:6s;
+                animation-delay:1s;
+            }
+
+            .bubble:nth-child(6) {
+                width:45px;
+                height:45px;
+                left:65%;
+                animation-duration:8s;
+                animation-delay:3s;
+            }
+
+            .bubble:nth-child(7) {
+                width:90px;
+                height:90px;
+                left:70%;
+                animation-duration:12s;
+                animation-delay:2s;
+            }
+
+            .bubble:nth-child(8) {
+                width:25px;
+                height:25px;
+                left:80%;
+                animation-duration:6s;
+                animation-delay:2s;
+            }
+
+            .bubble:nth-child(9) {
+                width:15px;
+                height:15px;
+                left:70%;
+                animation-duration:5s;
+                animation-delay:1s;
+            }
+
+            .bubble:nth-child(10) {
+                width:90px;
+                height:90px;
+                left:25%;
+                animation-duration:10s;
+                animation-delay:4s;
+            }
+
+            @keyframes rise {
+                0% {
+                    bottom:-100px;
+                    transform:translateX(0);
+                }
+                50% {
+                    transform:translate(100px);
+                }
+                100% {
+                    bottom:1080px;
+                    transform:translateX(-200px);
+                }
+            }
+
+            p {
+                margin: 30px auto;
+                text-align: center;
+            }
+
+            .quote {
+                font-style: italic;
+                margin: 75 auto 50px auto;
+            }
+
+            h1 {
+                margin: 50px auto 50px auto;
+                text-align: center;
+            }
+
+            .skills {
+                margin: auto 50px auto 50px;
+                width: 500px;
+            }
+
+            .bam {
+                margin: auto 0;
+                -webkit-mask-image: linear-gradient(transparent, black, black, black, black, black, transparent);
+                mask-image: linear-gradient(transparent, black, black, black, black, black, transparent);
+                width: 600px;
+            }
+        </style>
+        
         <div class="container">
             <div class="bubbles">
                 <div class="bubble"></div>
@@ -16,11 +172,11 @@
             </div>
             <img class="bam" src="../img/LeviSunset512x384.gif"/>
             <p class="quote">To love another person is to see the face of God. — Victor Hugo</p>
-            <hr>
+            <hr></hr>
             <h1>Contact me</h1>
             <p>📧 E-mail: levisls.inbox@gmail.com</p>
             <p>👾 Discord: levi_the_worst</p>
-            <hr>
+            <hr></hr>
             <h1>Skills</h1>
             <img class="skills" src="https://skillicons.dev/icons?i=html,javascript,css,scss,cs,java,typescript,dotnet,nodejs,maven,gradle,express,nextjs,react,vscode,visualstudio,webstorm,idea,windows,powershell,postman,git,discord,pug" /> 
         </div>
