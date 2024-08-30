@@ -7,7 +7,7 @@
 <div>
     <img src="https://lanyard.cnrad.dev/api/558808903924580352?idleMessage=Touching%20grass&showDisplayName=true" height="250px"></img>
     <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=66rsz4jnzenzkvh6owbqctfyk&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=66rsz4jnzenzkvh6owbqctfyk&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&bar_color_cover=true&bar_color=0055ff" width="300px"></img>
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=66rsz4jnzenzkvh6owbqctfyk&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&bar_color_cover=true&bar_color=0055ff" width="250px"></img>
     </a>
 </div>
 
