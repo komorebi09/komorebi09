@@ -1,7 +1,7 @@
 <hr />
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=To+love+another+person+is+to+see+the+face+of+God.+-+Victor+Hugo&width=1200&pause=5000&color=ffffff&background=000000&font=Playfair%20Display&size=32&center=true"></img>
+    <img src="https://readme-typing-svg.demolab.com/?lines=To+love+another+person+is+to+see+the+face+of+God.+-+Victor+Hugo&width=1200&height=400&pause=5000&color=ffffff&background=000000&font=Playfair%20Display&size=32&center=true"></img>
 </div>
 
 <div align="center">
