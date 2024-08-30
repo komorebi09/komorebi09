@@ -1,6 +1,6 @@
 <svg fill="none" viewBox="0 0 600 1200" width="600" height="1200" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
-      <div xmlns="http://www.w3.org/1999/xhtml">
+    <div xmlns="http://www.w3.org/1999/xhtml">
         <style>
             @import url('https://fonts.googleapis.com/css2?family=Radio+Canada+Big');
 
@@ -8,9 +8,7 @@
                 display: inline-block;
                 width: 100%;
                 height: 1200px;
-                background-color: #ffffff;
-                background-image: linear-gradient(180deg, #0d1117, white, white, white, white, white, white);
-                color: black;
+                background-color: #ffffff;                color: black;
                 font-family: 'Radio Canada Big';
                 font-size: 18px;
             }
@@ -144,15 +142,15 @@
                 text-align: center;
             }
 
-            .skills {
+            .skillicons {
                 margin: auto 50px auto 50px;
                 width: 500px;
             }
 
             .bam {
                 margin: auto 0;
-                -webkit-mask-image: linear-gradient(transparent, black, black, black, black, black, transparent);
-                mask-image: linear-gradient(transparent, black, black, black, black, black, transparent);
+                -webkit-mask-image: linear-gradient(transparent, black, black, black);
+                mask-image: linear-gradient(transparent, black, black, black);
                 width: 600px;
             }
         </style>
@@ -170,11 +168,6 @@
                 <div class="bubble"></div>
                 <div class="bubble"></div>
             </div>
-            <svg x="0" y="0" width="600" height="450">
-                <foreignObject width="100%" height="100%">
-                    <image class="bam" href="https://raw.githubusercontent.com/levitheworst/levitheworst/238301d9183e7a18d9138b23fcd302cad97a8f16/assets/img/LeviSunset512x384.gif"></image>
-                </foreignObject>
-            </svg>
             <p class="quote">To love another person is to see the face of God. — Victor Hugo</p>
             <hr></hr>
             <h1>Contact me</h1>
@@ -182,8 +175,8 @@
             <p>👾 Discord: levi_the_worst</p>
             <hr></hr>
             <h1>Skills</h1>
-            <image class="skills" href="https://skillicons.dev/icons?i=html,javascript,css,scss,cs,java,typescript,dotnet,nodejs,maven,gradle,express,nextjs,react,vscode,visualstudio,webstorm,idea,windows,powershell,postman,git,discord,pug"></image> 
+            <image class="skillicons" src="icons.svg"/>
         </div>
-      </div>
+    </div>
     </foreignObject>
-  </svg>
+</svg>
