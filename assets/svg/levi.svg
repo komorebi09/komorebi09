@@ -158,6 +158,10 @@
                 width: 500px;
                 }
 
+                .topp {
+                margin: 175px auto auto auto;
+                }
+                
                 .bam {
                 margin: auto 0;
                 -webkit-mask-image: linear-gradient(transparent, black, black, black);
@@ -179,7 +183,7 @@
                     <div class="bubble"></div>
                     <div class="bubble"></div>
                 </div>
-                <h1>Contact me</h1>
+                <h1 class="topp">Contact me</h1>
                 <p>📧 E-mail: levisls.inbox@gmail.com</p>
                 <p>👾 Discord: levi_the_worst</p>
                 <hr></hr>
