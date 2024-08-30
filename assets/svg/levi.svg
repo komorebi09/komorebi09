@@ -143,12 +143,6 @@
                 text-align: center;
                 }
 
-                .quote {
-                font-style: italic;
-                font-size: 16px;
-                margin: 175px auto 50px auto;
-                }
-
                 h1 {
                 margin: 50px auto 50px auto;
                 text-align: center;
@@ -185,8 +179,6 @@
                     <div class="bubble"></div>
                     <div class="bubble"></div>
                 </div>
-                <p class="quote">To love another person is to see the face of God. — Victor Hugo</p>
-                <hr></hr>
                 <h1>Contact me</h1>
                 <p>📧 E-mail: levisls.inbox@gmail.com</p>
                 <p>👾 Discord: levi_the_worst</p>
