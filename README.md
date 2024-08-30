@@ -5,7 +5,7 @@
 <h1 align="center">My Activity</h1>
 
 <div align="center">
-    <img src="https://lanyard.cnrad.dev/api/558808903924580352?idleMessage=Touching%20grass&showDisplayName=true" width="300px" height="200"></img>
+    <img src="https://lanyard.cnrad.dev/api/558808903924580352?idleMessage=Touching%20grass&showDisplayName=true" width="500px" height="200"></img>
     <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=66rsz4jnzenzkvh6owbqctfyk&redirect=true">
 </div>
 
