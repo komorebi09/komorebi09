@@ -21,7 +21,7 @@
                 );
                 color: black;
                 font-family: 'Trebuchet MS', 'Verdana', serif;
-                font-size: 18px;
+                font-size: 20px;
                 }
 
                 .bubbles {
