@@ -4,6 +4,7 @@
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=66rsz4jnzenzkvh6owbqctfyk&redirect=true">
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=66rsz4jnzenzkvh6owbqctfyk&cover_image=true&theme=default&show_offline=false&background_color=1a1c1f&interchange=true&bar_color=53b14f&bar_color_cover=true" height="300px"></img>
 </a>
+<hr />
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com/?lines=To+love+another+person+is+to+see+the+face+of+God.+-+Victor+Hugo&width=1200&pause=5000&color=ffffff&background=0d1117&font=Playfair%20Display&size=32&center=true"></img>
 </div>
