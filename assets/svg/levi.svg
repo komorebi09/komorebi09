@@ -7,7 +7,7 @@
                 width: 100%;
                 height: 1200px;
                 background-color: #ffffff;
-                background-image: linear-gradient(30deg, #ffebbd, #fcf9f2, #fff3d9);
+                background-image: linear-gradient(30deg, #ffebbd, #faf7f0, #fff3d9);
                 color: black;
                 font-family: 'Trebuchet MS', 'Verdana', serif;
                 font-size: 18px;
