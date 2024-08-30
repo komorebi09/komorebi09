@@ -31,7 +31,7 @@
                 background:#7a7a7a;
                 border-radius:50%;
                 opacity:0.5;
-                animation: rise 5s infinite ease-in;
+                animation: rise 3s infinite ease-in;
                 }
 
                 .bubble:nth-child(1) {
